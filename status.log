@@ -243,3 +243,7 @@
 2024-06-24 00:39:42,774 - __main__ - INFO - Token value: 1234
 2024-07-01 00:43:42,399 - __main__ - INFO - Token value: 1234
 2024-07-08 00:40:10,931 - __main__ - INFO - Token value: 1234
+2024-07-10 13:20:57,847 - __main__ - INFO - Token value: Token not available!
+2024-07-10 13:22:39,937 - __main__ - INFO - Token value: Token not available!
+2024-07-10 13:22:42,511 - __main__ - INFO - Weather in Berlin: Next run will only be available after 2024-07-12 for the insertion of constat for 2024-07-11
+2024-07-10 13:22:42,629 - __main__ - INFO - Weather in Berlin: Next run will only be available after 2024-07-12 for the insertion of constat for 2024-07-11
